@@ -1,0 +1,15 @@
+C:\Users\casper\Desktop\programlama\vscode\bin\Debug\net7.0\vscode.exe
+C:\Users\casper\Desktop\programlama\vscode\bin\Debug\net7.0\vscode.deps.json
+C:\Users\casper\Desktop\programlama\vscode\bin\Debug\net7.0\vscode.runtimeconfig.json
+C:\Users\casper\Desktop\programlama\vscode\bin\Debug\net7.0\vscode.dll
+C:\Users\casper\Desktop\programlama\vscode\bin\Debug\net7.0\vscode.pdb
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.AssemblyInfo.cs
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.dll
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\refint\vscode.dll
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.pdb
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\vscode.genruntimeconfig.cache
+C:\Users\casper\Desktop\programlama\vscode\obj\Debug\net7.0\ref\vscode.dll
